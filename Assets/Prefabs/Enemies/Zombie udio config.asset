@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d38b3c766ad4a0f9c1d03b4f60e0d4a, type: 3}
+  m_Name: Zombie udio config
+  m_EditorClassIdentifier: 
+  volume: 1
+  biteClip: {fileID: 8300000, guid: 951c9cfe8e5a3cb4994c3ebef2bbd047, type: 3}
+  deathClip: {fileID: 8300000, guid: f0a61720ea84eb64db2b0661381c0627, type: 3}

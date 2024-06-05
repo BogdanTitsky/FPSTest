@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6490e9aebd8d4dfea441528b3f108f8f, type: 3}
+  m_Name: RiflePickup
+  m_EditorClassIdentifier: 
+  type: 2
+  Name: RiflePickup
+  modelPrefab: {fileID: 7923896822491500930, guid: 55193168c34c52c40bde46f5f780b06e, type: 3}
+  spawnPoint: {x: 0.15, y: -0.15, z: 0.25}
+  spawnRotation: {x: 0, y: 0, z: 0}
+  damageConfig: {fileID: 11400000, guid: 7846d6be10bc6fc4ca5feeb3fa0525fd, type: 2}
+  shootConfig: {fileID: 11400000, guid: ebaac052c1085304ca85284d71bdfd5e, type: 2}
+  trailConfig: {fileID: 11400000, guid: 379f4f1e8cd531f49865a4002770cf63, type: 2}
+  ammoConfig: {fileID: 11400000, guid: 457999e4b527bec4da93410497cc9898, type: 2}
+  gunAudioConfig: {fileID: 11400000, guid: 983d728e691d41840b56813b1b4ed20b, type: 2}
+  _model: {fileID: 0}
+  gunIcon: {fileID: 21300000, guid: bdb61e9778ca721428ce2eb4fb6a8b8b, type: 3}
